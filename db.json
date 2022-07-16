@@ -5,7 +5,7 @@
       "imageUrl": "https://cerave.ru/media/catalog/product/cache/c3baa4b7d4425b479196f2a44e6328b0/i/m/img-pdp-sa-moisturizing-cream-340_1__1.png",
       "title": "Увлажняющий крем",
       "sizes": [50, 177, 340],
-      "price": [440, 660, 880],
+      "price": 440,
       "category": 1,
       "rating": 8
     },
@@ -15,7 +15,7 @@
       "title": "Увлажняющий лосьон",
 
       "sizes": [88, 236],
-      "price": [595, 1095],
+      "price": 595,
       "category": 1,
       "rating": 8
     },
@@ -25,7 +25,7 @@
       "title": "Увлажняющий очищающий крем-гель",
 
       "sizes": [88, 236, 473],
-      "price": [605, 905, 1305],
+      "price": 605,
       "category": 2,
       "rating": 7
     },
@@ -35,7 +35,7 @@
       "title": "Интенсивно очищающий гель",
 
       "sizes": [88, 236, 473],
-      "price": [605, 905, 1305],
+      "price": 605,
       "category": 2,
       "rating": 6
     },
@@ -45,7 +45,7 @@
       "title": "SA смягчающий очищающий гель",
 
       "sizes": [236, 473],
-      "price": [815, 1415],
+      "price": 815,
       "category": 2,
       "rating": 8
     },
@@ -55,7 +55,7 @@
       "title": "Увлажняющий лосьон для лица",
 
       "sizes": [52],
-      "price": [780],
+      "price": 780,
       "category": 1,
       "rating": 9
     },
@@ -65,7 +65,7 @@
       "title": "Увлажняющее очищающее пенящееся масло",
 
       "sizes": [236, 473],
-      "price": [1175, 1975],
+      "price": 1175,
       "category": 2,
       "rating": 9
     },
@@ -75,7 +75,7 @@
       "title": "Увлажняющий лосьон для лица SPF25",
 
       "sizes": [52],
-      "price": [750],
+      "price": 750,
       "category": 3,
       "rating": 10
     },
@@ -85,7 +85,7 @@
       "title": "Восстанавливающий крем для контура глаз",
 
       "sizes": [14],
-      "price": [895],
+      "price": 895,
       "category": 4,
       "rating": 9
     },
@@ -95,7 +95,7 @@
       "title": "Увлажняющая крем-пенка для умывания",
 
       "sizes": [100, 236],
-      "price": [485, 965],
+      "price": 485,
       "category": 2,
       "rating": 7
     }
