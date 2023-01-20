@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 0,
-      "imageUrl": "https://cerave.ru/media/catalog/product/cache/c3baa4b7d4425b479196f2a44e6328b0/i/m/img-pdp-sa-moisturizing-cream-340_1__1.png",
+      "imageUrl": "https://www.cerave.com/-/media/project/loreal/brand-sites/cerave/americas/us/product-v6/sa-cream-for-rough-and-bumpy-skin-with-badge-front-700x700-v1.jpg?rev=bbff5587246b4b8e9df38b5cac48b1fb?w=500&hash=15B19BB5CA4CC7B4759A8885455797CE",
       "title": "Увлажняющий крем",
       "sizes": [50, 177, 340],
       "price": 440,
@@ -11,7 +11,7 @@
     },
     {
       "id": 1,
-      "imageUrl": "https://cerave.ru/media/catalog/product/cache/c3baa4b7d4425b479196f2a44e6328b0/p/d/pdp_236_3_-daily-moisturizing-lotion.png",
+      "imageUrl": "./images/SA-Cream-for-Rough-and-Bumpy-Skin-with-Badge-Front-700x700-v1.jpg",
       "title": "Увлажняющий лосьон",
 
       "sizes": [88, 236],
