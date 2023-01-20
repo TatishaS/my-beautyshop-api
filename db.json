@@ -11,7 +11,7 @@
     },
     {
       "id": 1,
-      "imageUrl": "./images/SA-Cream-for-Rough-and-Bumpy-Skin-with-Badge-Front-700x700-v1.jpg",
+      "imageUrl": "https://www.cerave.com/-/media/project/loreal/brand-sites/cerave/americas/us/products-v3/pm-facial-moisturizing-lotion/700x875/cerave_pm-facial-moisturizing-lotion-3oz_front-700x875-v2.jpg?rev=939f7909baab458b9e45bbf394c06117?w=500&hash=CF95D075C0AC581EDBD18321722FD198",
       "title": "Увлажняющий лосьон",
 
       "sizes": [88, 236],
@@ -21,7 +21,7 @@
     },
     {
       "id": 2,
-      "imageUrl": "https://cerave.ru/media/catalog/product/cache/c3baa4b7d4425b479196f2a44e6328b0/p/d/pdp_473_hydrating-facial-cleanser_3_.png",
+      "imageUrl": "https://www.cerave.com/-/media/project/loreal/brand-sites/cerave/americas/us/products-v3/hydrating-body-wash/700x875/cerave_hydrating_body_wash_10oz_front-700x875-v2.jpg?rev=b362c8cffebf464ba9c459509cb146f2?w=500&hash=1A8CEB95BC471F42E6468D0E1AEAD777",
       "title": "Увлажняющий очищающий крем-гель",
 
       "sizes": [88, 236, 473],
@@ -31,7 +31,7 @@
     },
     {
       "id": 3,
-      "imageUrl": "https://cerave.ru/media/catalog/product/cache/c3baa4b7d4425b479196f2a44e6328b0/c/v/cve_sleever_foaming_cleanser_473ml_r3-min_1_3_1.jpg",
+      "imageUrl": "https://www.cerave.com/-/media/project/loreal/brand-sites/cerave/americas/us/products-v3/foaming-facial-cleanser/700x875/cerave_foaming-facial-cleanser-12oz_front-700x875-v2.jpg?rev=65284ac19a2b43fa9a03b8b4bd555826?w=500&hash=34ACA2658E9628F4F315C360953491F5",
       "title": "Интенсивно очищающий гель",
 
       "sizes": [88, 236, 473],
@@ -41,7 +41,7 @@
     },
     {
       "id": 4,
-      "imageUrl": "https://cerave.ru/media/catalog/product/cache/c3baa4b7d4425b479196f2a44e6328b0/c/v/cve_sleever_sa_cleanser_236ml_r2-min_2.png",
+      "imageUrl": "https://www.cerave.com/-/media/project/loreal/brand-sites/cerave/americas/us/products-v3/renewing-sa-cleanser/700x875/renewing_sa_cleanser_8oz_front_new-700x875-v2.jpg?rev=58ba4445d72b4b86b0c2ac7bc0e2f7ef?w=500&hash=E8C3D1F73869CB6C32B3E62A4E93B138",
       "title": "SA смягчающий очищающий гель",
 
       "sizes": [236, 473],
@@ -51,7 +51,7 @@
     },
     {
       "id": 5,
-      "imageUrl": "https://cerave.ru/media/catalog/product/cache/c3baa4b7d4425b479196f2a44e6328b0/c/e/cerave_packs_box_5.jpg",
+      "imageUrl": "https://www.cerave.com/-/media/project/loreal/brand-sites/cerave/americas/us/products-v3/pm-facial-moisturizing-lotion/700x875/cerave_pm-facial-moisturizing-lotion-3oz_front-700x875-v2.jpg?rev=939f7909baab458b9e45bbf394c06117?w=500&hash=CF95D075C0AC581EDBD18321722FD198",
       "title": "Увлажняющий лосьон для лица",
 
       "sizes": [52],
@@ -61,18 +61,18 @@
     },
     {
       "id": 6,
-      "imageUrl": "https://cerave.ru/media/catalog/product/cache/c3baa4b7d4425b479196f2a44e6328b0/p/d/pdp_236_1_1_.png",
+      "imageUrl": "https://www.cerave.com/-/media/project/loreal/brand-sites/cerave/americas/us/skincare/cleansers/makeup-removing-cleanser-balm/photos/2022/2022-11/makeup-removing-cleansing-balm-front_primary-700x875-allure-seal-v2.jpg?rev=375b64481a4b46d9abdf3a9b88888cd3?w=500&hash=BF53D105A6B9A2C155F40980902B3BCE",
       "title": "Увлажняющее очищающее пенящееся масло",
 
-      "sizes": [236, 473],
+      "sizes": [36, 72],
       "price": 1175,
       "category": 2,
       "rating": 9
     },
     {
       "id": 7,
-      "imageUrl": "https://cerave.ru/media/catalog/product/cache/c3baa4b7d4425b479196f2a44e6328b0/c/e/cerave_packs_box_4_1__1_.jpg",
-      "title": "Увлажняющий лосьон для лица SPF25",
+      "imageUrl": "https://www.cerave.com/-/media/project/loreal/brand-sites/cerave/americas/us/skincare/moisturizers/am-facial-moisturizing-lotion-with-sunscreen/photos/2022/700x785/cerave_am_facial_moisturizing_lotion_3oz-700x875-v1.jpg?rev=9bddfdb9aa3345dfa76d8a03ef61749a?w=500&hash=5D5D44691DD398D5CF851C1BBAE14EF0",
+      "title": "Увлажняющий лосьон для лица SPF30",
 
       "sizes": [52],
       "price": 750,
@@ -81,7 +81,7 @@
     },
     {
       "id": 8,
-      "imageUrl": "https://cerave.ru/media/catalog/product/cache/c3baa4b7d4425b479196f2a44e6328b0/c/e/cerave_packs_box_3_2_.jpg",
+      "imageUrl": "https://www.cerave.com/-/media/project/loreal/brand-sites/cerave/americas/us/products-v3/eye-repair-cream/700x875/cerave_eye_repair_cream_05oz_front-700x875-v2.jpg?rev=4d5c3c6562324b08b1aec56c38540f93?w=500&hash=C06F4B5F743ABAF7BF913E82FBC0D1FA",
       "title": "Восстанавливающий крем для контура глаз",
 
       "sizes": [14],
@@ -91,7 +91,7 @@
     },
     {
       "id": 9,
-      "imageUrl": "https://cerave.ru/media/catalog/product/cache/c3baa4b7d4425b479196f2a44e6328b0/c/v/cve_sleever_hydra_cleanser_236ml_2020_face_1__1.png",
+      "imageUrl": "https://www.cerave.com/-/media/project/loreal/brand-sites/cerave/americas/us/products/cream-to-foam-cleanser/700x875/cream-to-foam-cleanser-front-700x875-v1.jpg?rev=7045145e79b94d5d9ca52f4f3b5eaee4?w=500&hash=74925B75C4C5EFA9058E495B9CF196AE",
       "title": "Увлажняющая крем-пенка для умывания",
 
       "sizes": [100, 236],
